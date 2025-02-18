@@ -4,7 +4,7 @@ import 'package:vamoscomer/utils/texts_constants.dart';
 
 import '../components/meal_item.dart';
 import '../models/category.dart';
-import '../state/meal_provider.dart';
+import '../provider/meal_provider.dart';
 import '../utils/size_constants.dart';
 
 class CategoriesMealsScreen extends StatelessWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:vamoscomer/state/meal_provider.dart';
+import 'package:vamoscomer/provider/meal_provider.dart';
 import 'package:vamoscomer/utils/texts_constants.dart';
 import 'package:vamoscomer/utils/theme.dart';
 

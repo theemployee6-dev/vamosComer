@@ -5,7 +5,7 @@ import 'package:provider/provider.dart';
 import '../components/create_section_container.dart';
 import '../components/create_section_title.dart';
 import '../models/meal.dart';
-import '../state/meal_provider.dart';
+import '../provider/meal_provider.dart';
 import '../utils/size_constants.dart';
 import '../utils/texts_constants.dart';
 

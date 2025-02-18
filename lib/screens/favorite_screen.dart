@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../components/meal_item.dart';
-import '../state/meal_provider.dart';
+import '../provider/meal_provider.dart';
 
 class FavoriteScreen extends StatelessWidget {
   const FavoriteScreen({super.key});

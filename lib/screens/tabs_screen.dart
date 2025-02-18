@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../components/main_drawer.dart';
-import '../state/meal_provider.dart';
+import '../provider/meal_provider.dart';
 import '../utils/texts_constants.dart';
 
 class TabsScreen extends StatelessWidget {

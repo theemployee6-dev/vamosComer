@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 
 import '../components/create_switch.dart';
 import '../components/main_drawer.dart';
-import '../state/meal_provider.dart';
+import '../provider/meal_provider.dart';
 import '../utils/size_constants.dart';
 import '../utils/texts_constants.dart';
 
