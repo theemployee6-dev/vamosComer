@@ -1,0 +1,46 @@
+name: vamoscomer
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0-24.0.dev
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  cached_network_image: ^3.4.1
+  shared_preferences: ^2.5.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: assets\fonts\Raleway-Black.ttf
+          weight: 900
+        - asset: assets\fonts\Raleway-Bold.ttf
+          weight: 700
+        - asset: assets\fonts\Raleway-Regular.ttf
+
+    - family: RobotoCondensed
+      fonts:
+        - asset: assets\fonts\RobotoCondensed-Bold.ttf
+          weight: 700
+        - asset: assets\fonts\RobotoCondensed-Italic.ttf
+        - asset: assets\fonts\RobotoCondensed-Light.ttf
+          weight: 300
+        - asset: assets\fonts\RobotoCondensed-Regular.ttf
+          style: italic
